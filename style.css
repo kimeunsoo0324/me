@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+}
+
+ul{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color:palevioletred;
+}
+
+.education{
+    color:sandybrown;
+}
+
+p.intro{
+    color:yellowgreen;
+}
+
+#original{
+    color:rgb(252, 134, 0);
+    font-weight: bold;
+}
+
+h2#original{
+    color:rgb(139, 82, 255);
+}
+
+div h2{
+    color:rgb(168, 86, 215);
+}
+
+ul{
+    color:rgb(185, 144, 255);
+}
+
+footer{
+    color:rgb(180, 115, 115);
+    font-style: italic;
+}
+
+body{
+    background-color: rgb(255, 250, 228);
+}
+
+.content{
+    border: 10px solid pink;
+    border-radius: 20px;
+}
